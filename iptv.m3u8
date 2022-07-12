@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Quebec",Radio-Canadaaa
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8?hdnea=st=1657589541~exp=1657589841~acl=*~id=2e3e4b42-c3e5-4169-868c-6752673adc29~hmac=0569b502f9b216ca379c8a480775685bf3aff28daa8d689860bf45e4058ca500&originpath=/linear/hls/pa/event/ixE_JVvSSCWyxU7eXJoV-A/stream/381e53cb-f35b-4ff4-bac9-533caf43b9c5:MRN2/master.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Quebec",Radio-Canada
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
 #EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/jpcroteau/iptv/main/images/tva.png" group-title="Quebec",TVA
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8?__nn__=5529128749001&hdnea=st=1657585800~exp=1657589400~acl=/*~hmac=d686aa68d771f06c5ddcf608e4bb995cb6e01af878adf1f7299ca298b6635a49
