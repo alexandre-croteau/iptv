@@ -3,3 +3,5 @@
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
 #EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/jpcroteau/iptv/main/images/tva.jpg" group-title="Quebec",TVA
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8?__nn__=5529128749001&hdnea=st=1657585800~exp=1657589400~acl=/*~hmac=d686aa68d771f06c5ddcf608e4bb995cb6e01af878adf1f7299ca298b6635a49
+#EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/jpcroteau/iptv/main/images/noovo.jpg" group-title="Quebec",Noovo
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
