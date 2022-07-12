@@ -12,4 +12,6 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:0 tvg-id="CIVMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png",Télé-Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="CBMTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/CBMT-DT_logo.png",CBC
-https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master.m3u8?hdnts=ip=192.222.174.214~st=1657645888~exp=1657646278~acl=/*~id=e56d193b-b100-4014-b446-7e6532ddc6d1~hmac=d2bf093822d9aa8a4f05a86f30c3ed9c99eb8d7379dc5df0628381668fafee45
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Current_Logo_for_CBC_News_Network.png/512px-Current_Logo_for_CBC_News_Network.png",CBC News
+https://cbcrclive-tor.akamaized.net/hls/live/2040338/geo_allow_global/ES_NEWS_1/master_3000.m3u8
