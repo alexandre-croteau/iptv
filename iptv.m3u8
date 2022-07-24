@@ -15,3 +15,7 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,Impact
+http://cdn1.cyclingnews.live/abr/abr-stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDIyIDEyOjMzCjoxMAogQU0maGFzaF92YWx1ZT1mVWdHblBCMFNvM2tYOVJSUHgzZlN3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDguNTQuODUuNTAmc3RybV9sZW49NA==
+#EXTINF:-1,Impact2
+http://45.134.21.199/hls/S1.m3u8
