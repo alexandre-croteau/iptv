@@ -15,3 +15,5 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 tvg-id="CBFTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/512px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",Radio-Canada Sports
+https://cbcrclinear-mtl.akamaized.net/hls/live/2035038/geo_allow_ca/fo7bzeefb/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAAqAt5iAAAAAEXHskGs5EC2u2HzDixFk+K4Tu6gFEztSZgP43tjMtrEDnWeg+Jead2E6fqa5E5sfxzKeyeLEU6M&aka_media_format_type=hls
