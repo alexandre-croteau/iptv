@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-id="CBFTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/512px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",Radio-Canada
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+#https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Radio-Canada_Sports_%282017%29.svg/320px-Radio-Canada_Sports_%282017%29.svg.png",Radio-Canada Sports
 https://cbcrclinear-mtl.akamaized.net/hls/live/2035037/geo_allow_ca/znjqdrgjg/master_3000.m3u8
 #EXTINF:0 tvg-id="CFTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png",TVA
